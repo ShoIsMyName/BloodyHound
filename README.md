@@ -1,10 +1,10 @@
-# BloodyHound
+# BloodyHound 🩸🐶
 
 <img src="https://github.com/ShoIsMyName/BloodyHound/blob/main/ReadMEImage/Menu.png?raw=true" style="width: 550px;">
 <h4>A malicious link generator that can identify the location and can be used by Bloody Hound.</h4> 
 
 # How to use?
-<h4>First you need to install Cloudflared, otherwise the links you create will not be publicly accessible. (option 3)</h4>
+<h4>⚠️ First you need to install Cloudflared, otherwise the links you create will not be publicly accessible. (option 3)</h4>
 <img src="https://github.com/ShoIsMyName/BloodyHound/blob/main/ReadMEImage/CreateLink.png?raw=true" style="width: 550px;">
 <h4>Now you can start generate link by use Cloudflare Tunnel (option 2)</h4>
 
@@ -16,7 +16,7 @@
 <img src="https://github.com/ShoIsMyName/BloodyHound/blob/main/ReadMEImage/FirstClick.png?raw=true" style="width: 550px;">
 <h4>When someone visit or click the link, U will see some information about victim but this is not very accurate.</h4>
 
-### what if victim just allow to access the location 📍
+# what if victim just allow to access the location 📍
 <img src="https://github.com/ShoIsMyName/BloodyHound/blob/main/ReadMEImage/AllowGEO.png?raw=true" style="width: 550px;">
 <h4>As you can see! We will get the location with longitude and latitude, or if you want to see it easily, you can click the googlemap link below.</h4>
 
